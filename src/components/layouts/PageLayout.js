@@ -11,7 +11,8 @@ const PageLayout = props => {
         <title>💻Yue Ying</title>
         <meta
           name="image"
-          content="https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          property="og:image"
+          content="https://images.pexels.com/photos/18105/pexels-photo.jpg"
         />
       </Helmet>
       <div className="max-w-screen-xl self-stretch m-auto w-full">
