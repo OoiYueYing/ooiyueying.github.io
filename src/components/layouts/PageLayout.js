@@ -11,7 +11,7 @@ const PageLayout = props => {
         <title>💻Yue Ying</title>
         <meta
           name="image"
-          content="https://www.pexels.com/photo/macbook-pro-near-iphone-and-apple-fruit-18105/"
+          content="https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         />
       </Helmet>
       <div className="max-w-screen-xl self-stretch m-auto w-full">
