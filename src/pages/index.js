@@ -18,7 +18,9 @@ export default function Home() {
 
   const userNameElement = (
     <div className="flex flex-row text-center text-3xl">
-      <h1 className="mb-1 uppercase font-extrabold">{profile.firstName}</h1>
+      <h1 className="mb-1 uppercase font-extrabold">
+        {profile.lastName + " " + profile.firstName}
+      </h1>
     </div>
   )
 
