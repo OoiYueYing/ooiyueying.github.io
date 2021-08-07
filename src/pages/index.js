@@ -69,7 +69,7 @@ export default function Home() {
           Hi everyone! I'm Yue Ying. I am working as a full-time software
           engineer. I hope to use this space to document my progress of my
           career journey. The contents on this website is not limited to just
-          Software Engineering. Feel free to connect with me on linkedin!
+          Software Engineering. Feel free to connect with me over linkedin or email!
         </p>
       </div>
     </PageLayout>
